@@ -1,8 +1,6 @@
-about me :
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=slrhoseini&show_icons=true&theme=dark" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=slrhoseini&show_icons=true&theme=dark" />
-
-<img align="left" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slrhoseini&layout=compact" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slrhoseini&layout=compact&theme=dark" />
 
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 
